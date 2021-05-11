@@ -12,4 +12,4 @@
 ---
 ---
 
-![Karate Men] ()
+![Karate Men](https://github.com/HartR117/YOUR_GITHUB_ReadusHarton/blob/main/images/karate-fighters-publicdomain.jpg)
