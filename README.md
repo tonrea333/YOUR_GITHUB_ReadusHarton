@@ -12,4 +12,4 @@
 ---
 ---
 
-![Karate Men] (
+![Karate Men] ()
